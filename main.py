@@ -1,1 +1,2 @@
-from src.mlWINE.config import configuration
+from src.mlWINE.logging import logger
+logger.info("This is out custom log!")
